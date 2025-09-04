@@ -38,9 +38,15 @@ The objective was to study:
 📂 Detailed plots and reports are available in the `ANSYS_Results/` folder.  
 
 ### Sample Results  
-### Equivalent Elastic Strain
-![Elastic Strain](https://github.com/gowtham-d-p/spur-gear-fusion360-ansys/blob/main/Spur%20Gear/Ansys/Strain.jpeg) 
+![3D Model](https://github.com/gowtham-d-p/stepped-shaft-fea-fusion-ansys/blob/main/Stepped%20Shaft/Fusion%20360/3D%20model.jpg ) 
+
+![Equivalent Alternating Stress](https://github.com/gowtham-d-p/stepped-shaft-fea-fusion-ansys/blob/main/Stepped%20Shaft/Ansys%20Workbench/Eqiivalent%20alternating%20Stress.jpg) 
+
 ![Fatigue Life](https://github.com/gowtham-d-p/stepped-shaft-fea-fusion-ansys/blob/main/Stepped%20Shaft/Ansys%20Workbench/Life.jpg)  
+
+![Safety Factor](https://github.com/gowtham-d-p/stepped-shaft-fea-fusion-ansys/blob/main/Stepped%20Shaft/Ansys%20Workbench/Safety%20Factor.jpg)  
+
+![Mesh](https://github.com/gowtham-d-p/stepped-shaft-fea-fusion-ansys/blob/main/Stepped%20Shaft/Ansys%20Workbench/Mesh.jpg)  
 
 ---
 
