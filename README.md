@@ -38,7 +38,8 @@ The objective was to study:
 📂 Detailed plots and reports are available in the `ANSYS_Results/` folder.  
 
 ### Sample Results  
-![Stress Plot](ANSYS_Results/02_eqv_stress.png)  
+### Equivalent Elastic Strain
+![Elastic Strain](https://github.com/gowtham-d-p/spur-gear-fusion360-ansys/blob/main/Spur%20Gear/Ansys/Strain.jpeg) 
 ![Fatigue Life]([ANSYS_Results/03_fatigue_life.png](https://github.com/gowtham-d-p/stepped-shaft-fea-fusion-ansys/blob/main/Stepped%20Shaft/Ansys%20Workbench/Life.jpg))  
 
 ---
