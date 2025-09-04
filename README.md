@@ -40,7 +40,7 @@ The objective was to study:
 ### Sample Results  
 ### Equivalent Elastic Strain
 ![Elastic Strain](https://github.com/gowtham-d-p/spur-gear-fusion360-ansys/blob/main/Spur%20Gear/Ansys/Strain.jpeg) 
-![Fatigue Life]([ANSYS_Results/03_fatigue_life.png](https://github.com/gowtham-d-p/stepped-shaft-fea-fusion-ansys/blob/main/Stepped%20Shaft/Ansys%20Workbench/Life.jpg))  
+![Fatigue Life](https://github.com/gowtham-d-p/stepped-shaft-fea-fusion-ansys/blob/main/Stepped%20Shaft/Ansys%20Workbench/Life.jpg)  
 
 ---
 
