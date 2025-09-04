@@ -39,7 +39,7 @@ The objective was to study:
 
 ### Sample Results  
 ![Stress Plot](ANSYS_Results/02_eqv_stress.png)  
-![Fatigue Life](ANSYS_Results/03_fatigue_life.png)  
+![Fatigue Life]([ANSYS_Results/03_fatigue_life.png](https://github.com/gowtham-d-p/stepped-shaft-fea-fusion-ansys/blob/main/Stepped%20Shaft/Ansys%20Workbench/Life.jpg))  
 
 ---
 
